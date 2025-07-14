@@ -923,7 +923,6 @@ form label {
   width: 100%;
   opacity: 0;
   visibility: hidden;
-    z-index: 1;
 
 }
 .gtco-tabs .gtco-tab-content-wrap .tab-content.active {
